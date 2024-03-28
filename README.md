@@ -4,7 +4,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<h1 align="center">Hi 👋, I'm Shivani Vats</h1>
+<h1 align="center">I'm Shivani Vats</h1>
 <h3 align="center">Unraveling the Journey of a Data Scientist while Exploring the Realm of Business</h3>
 
 - 🔭 I’m currently working on **product demand forecasting and consumer classification problem for a Fortune 500 Consumer Electronics Retailer**
