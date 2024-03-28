@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Shivani, Welcome to my Github Account!</h1>
 
 ###
-<h3 align="center">Unraveling the Journey of a Data Scientist while Exploring the Realm of Business</h3>
+<h3>Unraveling the Journey of a Data Scientist while Exploring the Realm of Business</h3>
 
 - 🔭 I’m currently working on **product demand forecasting and consumer classification problem for a Fortune 500 Consumer Electronics Retailer**
 
@@ -11,7 +11,7 @@
 
 - 🌱 I have **5 years of experience in the field of analytics and strategy consulting**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shivani1011/) or [gmail]vats0020@umn.edu**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shivani1011/) or [gmail](vats0020@umn.edu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
