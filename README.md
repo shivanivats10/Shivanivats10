@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Shivani,Welcome to my Github Account</h1>
+<h1 align="left">Hey 👋 I'm Shivani, Welcome to my Github Account!</h1>
 
 ###
 <h3 align="center">Unraveling the Journey of a Data Scientist while Exploring the Realm of Business</h3>
